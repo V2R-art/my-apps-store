@@ -1,0 +1,13 @@
+[
+  {
+    "id": "com.example.firstapp",
+    "name": "تطبيقي الأول",
+    "version": "1.0.0",
+    "versionCode": 1,
+    "iconUrl": "https://raw.githubusercontent.com/octocat/Spoon-Knife/main/index.html",
+    "apkUrl": "https://raw.githubusercontent.com/octocat/Spoon-Knife/main/index.html",
+    "sizeBytes": 15485760,
+    "description": "هذا تطبيق تجريبي لاختبار عمل المتجر وعرض الواجهة وقراءة البيانات.",
+    "updatedAt": "2026-10-27"
+  }
+]
