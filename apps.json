@@ -9,5 +9,16 @@
     "sizeBytes": 304223,
     "description": "Listen to songs and various music online and offline. You can enjoy music on your phone, view photos and videos, customize the interface, and explore effects distinctive",
     "updatedAt": "2026-10-28"
+  },
+  {
+    "id": "com.spritecutter",
+    "name": "Sprite Cutter",
+    "version": "1.0",
+    "versionCode": 0,
+    "iconUrl": "https:\/\/raw.githubusercontent.com\/V2R-art\/my-apps-store\/main\/icons\/com.spritecutter.png",
+    "apkUrl": "https:\/\/github.com\/V2R-art\/my-apps-store\/releases\/download\/vcom.spritecutter-1.0-72817\/com.spritecutter-v1.0.apk",
+    "sizeBytes": 2626630,
+    "description": "Smartly crop any image with excellent features that are very helpful in 2D games 😁",
+    "updatedAt": "2026-10-28"
   }
 ]
