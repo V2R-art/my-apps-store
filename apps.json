@@ -20,5 +20,16 @@
     "sizeBytes": 2626630,
     "description": "Smartly crop any image with excellent features that are very helpful in 2D games 😁",
     "updatedAt": "2026-10-28"
+  },
+  {
+    "id": "com.material3.colorextractor",
+    "name": "ChromaLens M3",
+    "version": "1.0",
+    "versionCode": 1,
+    "iconUrl": "https:\/\/raw.githubusercontent.com\/V2R-art\/my-apps-store\/main\/icons\/com.material3.colorextractor.png",
+    "apkUrl": "https:\/\/github.com\/V2R-art\/my-apps-store\/releases\/download\/vcom.material3.colorextractor-1.0-71712\/com.material3.colorextractor-v1.0.apk",
+    "sizeBytes": 46039,
+    "description": "You can easily determine the color of anything; just upload the image and extract any color you can imagine 😳",
+    "updatedAt": "2026-10-28"
   }
 ]
