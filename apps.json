@@ -4,10 +4,21 @@
     "name": "تطبيقي الأول",
     "version": "1.0.0",
     "versionCode": 1,
-    "iconUrl": "https://raw.githubusercontent.com/octocat/Spoon-Knife/main/index.html",
-    "apkUrl": "https://raw.githubusercontent.com/octocat/Spoon-Knife/main/index.html",
+    "iconUrl": "https:\/\/raw.githubusercontent.com\/octocat\/Spoon-Knife\/main\/index.html",
+    "apkUrl": "https:\/\/raw.githubusercontent.com\/octocat\/Spoon-Knife\/main\/index.html",
     "sizeBytes": 15485760,
     "description": "هذا تطبيق تجريبي لاختبار عمل المتجر وعرض الواجهة وقراءة البيانات.",
     "updatedAt": "2026-10-27"
+  },
+  {
+    "id": "com.music.studio",
+    "name": "Aura Sound",
+    "version": "1.2",
+    "versionCode": 3,
+    "iconUrl": "https:\/\/raw.githubusercontent.com\/V2R-art\/my-apps-store\/main\/icons\/com.music.studio.png",
+    "apkUrl": "https:\/\/github.com\/V2R-art\/my-apps-store\/releases\/download\/vcom.music.studio-1.2-77328\/com.music.studio-v1.2.apk",
+    "sizeBytes": 304223,
+    "description": "Listen to songs and various music online and offline. You can enjoy music on your phone, view photos and videos, customize the interface, and explore effects distinctive",
+    "updatedAt": "2026-10-28"
   }
 ]
