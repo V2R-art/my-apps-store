@@ -7,5 +7,14 @@
     "sizeBytes": 55275,
     "isPrivate": true,
     "updatedAt": "2026-10-30"
+  },
+  {
+    "id": "hh",
+    "name": "hh",
+    "description": "hhh",
+    "zipUrl": "https:\/\/github.com\/V2R-art\/my-apps-store\/releases\/download\/zip-hh-89620\/hh.zip",
+    "sizeBytes": 888547,
+    "isPrivate": false,
+    "updatedAt": "2026-10-30"
   }
 ]
