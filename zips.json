@@ -7,5 +7,14 @@
     "sizeBytes": 888547,
     "isPrivate": true,
     "updatedAt": "2026-10-30"
+  },
+  {
+    "id": "music",
+    "name": "Music",
+    "description": "My app music ✊🏻",
+    "zipUrl": "https:\/\/github.com\/V2R-art\/my-apps-store\/releases\/download\/zip-music-41502\/Music.zip",
+    "sizeBytes": 933383,
+    "isPrivate": true,
+    "updatedAt": "2026-11-11"
   }
 ]
